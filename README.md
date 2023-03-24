@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alfredo043
 - 👀 I’m interested in ...
 - 🌱 I’m currently soy estudiante de Ingeniería en Sistemas Computacionales
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Google, Microsoft o Facebook
 - 📫 How to reach me jorgealdana043@gmail.com
 
 <!---
