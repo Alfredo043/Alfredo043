@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alfredo043
+- 👋 Hi, I’m @JorgeAldana
 - 👀 I’m interested in la programación
 - 🌱 Currently egresado de la carrera de Ingeniería en sistemas computacionales
 - 💞️ I’m looking to collaborate on Google, Microsoft o Facebook
